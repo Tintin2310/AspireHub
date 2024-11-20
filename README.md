@@ -40,8 +40,6 @@ To set up AspireHub on your local machine:
 - After logging in, you can access the **Dashboard**, view **Study Resources**, track **Goals**, and interact with the **AI Chat** for support.
 - The **AI Chat** is powered by Google Gemini, offering real-time advice on various MBA-related topics.
 
-### License
-This project is licensed under the MIT License.
 
 ### Scalability and Novelty
 - **Scalable Cloud Infrastructure**: Built for scalability with cloud hosting and Docker for containerization.
