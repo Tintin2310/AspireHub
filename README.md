@@ -14,9 +14,7 @@ AspireHub is an AI-driven platform designed to provide personalized support for 
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Backend**: Python with Flask, Google Gemini API
-- **Database**: PostgreSQL or MongoDB
-- **AI/ML**: Google Generative AI (Gemini API), Natural Language Processing (NLP)
-- **Deployment**: AWS or Heroku, Docker
+- **AI/ML**: Google AI Studio
 
 ## Installation
 
